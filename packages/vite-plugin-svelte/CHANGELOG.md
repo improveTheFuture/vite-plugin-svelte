@@ -1,5 +1,11 @@
 # @sveltejs/vite-plugin-svelte
 
+## 3.0.1
+
+### Patch Changes
+
+- Fix optional parameter types ([#797](https://github.com/sveltejs/vite-plugin-svelte/pull/797))
+
 ## 3.0.0
 
 ### Major Changes
